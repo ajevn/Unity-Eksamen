@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Tribune/tribune.unity
-  isLoaded: 1
-  isActive: 1
