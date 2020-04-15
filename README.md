@@ -1,14 +1,17 @@
-UNITY EKSAMEN 
+**UNITY EKSAMEN**
   
-  Gruppe medlemmer
+  **Gruppe medlemmer**
+  ```
   -Andreas Jevnaker
   -Johan Akerfeldt
   -Joachim Noor Atamna
   -Robin Sandmo
   -Lasse Eidsheim
-  
-Konsept & løsning:
+  ```
+**Konsept & løsning:**
+  ```
   Bilspill med cartoony look
   
+  ```
 
-Extra features to be added?
+**Extra features to be added?**
