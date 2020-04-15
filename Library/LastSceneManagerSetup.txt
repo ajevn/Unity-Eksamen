@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RALJyRacing.unity
+- path: Assets/MenuTest.unity
   isLoaded: 1
   isActive: 1
