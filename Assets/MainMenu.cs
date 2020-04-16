@@ -19,24 +19,5 @@ public class MainMenu : MonoBehaviour {
         Debug.Log("Quit");
         Application.Quit();
     }
-
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            menuIsOpen = !menuIsOpen;
-
-            if (menuIsOpen)
-            {
-                menu.enabled = true;
-                Time.timeScale = 0;
-            }
-            if (!menuIsOpen)
-            {
-                menu.enabled = false;
-                Time.timeScale = 1;
-            }
-        }
-    }
     
 }
