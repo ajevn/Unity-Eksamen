@@ -16,6 +16,7 @@ public class MainMenu : MonoBehaviour {
         Debug.Log("Quit");
         Application.Quit();
     }
+
     void Update() {
         if(Input.GetKeyDown(KeyCode.Escape)) {
             SceneManager.LoadScene(0);

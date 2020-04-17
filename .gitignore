@@ -1,2 +1,16 @@
 
 Library/CrashedAssetImports.txt
+*.cache
+obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+Temp/__Backupscenes/0.backup
+Temp/UnityTempFile-f2373c54412874e319f0e8ea250418cb
+Temp/UnityTempFile-38f5579ad535940c68d26dc406b863b0
+Temp/UnityTempFile-2ed3f1d783030459e8959e7e2e11d36a
+Temp/UnityTempFile-1fc3848a2818c4875be415f734631a2f
+Temp/UnityLockfile
+Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+Temp/ProcessJobs/e863ae0ffad764b09e37f5ad7b231d57.vis
+Temp/ProcessJobs/e863ae0ffad764b09e37f5ad7b231d57.lt
+Temp/ProcessJobs/e7e7ae0806c064693af8b0690ad8c393.clust
+Temp/ProcessJobs/d891cf51ea77260c4cae2741b840423c.clust
+*.clust
