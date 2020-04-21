@@ -74,6 +74,7 @@
     <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoHideScriptField.cs" />
     <Compile Include="Assets\Scripts\Audience.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\RespawnDetectorScript.cs" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
