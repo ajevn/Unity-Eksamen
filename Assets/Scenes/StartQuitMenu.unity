@@ -20,7 +20,7 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.8679245, g: 0.76456547, b: 0.47080812, a: 1}
+  m_AmbientSkyColor: {r: 0.9622642, g: 0.8165291, b: 0.12255252, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
@@ -35,10 +35,10 @@ RenderSettings:
   m_DefaultReflectionMode: 0
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
-  m_ReflectionIntensity: 0.63
+  m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.28965056, g: 0.45735645, b: 0.68633485, a: 0.63}
+  m_IndirectSpecularColor: {r: 0.36281797, g: 0.5661268, b: 0.8437161, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -257,8 +257,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.549988, y: 22.958008}
-  m_SizeDelta: {x: -1674.3, y: -873.56}
+  m_AnchoredPosition: {x: -7.549988, y: 47.899902}
+  m_SizeDelta: {x: -1673.11, y: -878.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &193369814
 MonoBehaviour:
@@ -2158,7 +2158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8, y: -52.5}
+  m_AnchoredPosition: {x: -7.995, y: -88.7}
   m_SizeDelta: {x: 233.9, y: 70.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1791210532
@@ -2683,7 +2683,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.549988, y: 95.20001}
+  m_AnchoredPosition: {x: -7.549988, y: 155.8}
   m_SizeDelta: {x: 234.79, y: 64.16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2029459125
