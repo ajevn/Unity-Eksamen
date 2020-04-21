@@ -60,18 +60,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\SettingsUtils\SettingsData.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledBanner.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledCategory.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledInteractive.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledMessage.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledPopupArray.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledPopupLayers.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledRangeOptions.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledSpace.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledInspector\StyledTexturePreview.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoBehaviour.cs" />
-    <Compile Include="Assets\EnviormentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoHideScriptField.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\SettingsUtils\SettingsData.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledBanner.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledCategory.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledInteractive.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledMessage.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledPopupArray.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledPopupLayers.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledRangeOptions.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledSpace.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledInspector\StyledTexturePreview.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoBehaviour.cs" />
+    <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoHideScriptField.cs" />
     <Compile Include="Assets\Scripts\Audience.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
@@ -86,7 +86,7 @@
     <None Include="Assets\Tools\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\EnviormentAssets\Skybox\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
+    <None Include="Assets\EnvironmentAssets\Skybox\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\Tools\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
