@@ -258,7 +258,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.416382, y: 21.099976}
+  m_AnchoredPosition: {x: 8.416382, y: -31}
   m_SizeDelta: {x: -1649, y: -886.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &193369814
@@ -615,7 +615,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -716,6 +716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566924344}
   - component: {fileID: 566924345}
+  - component: {fileID: 566924346}
   m_Layer: 5
   m_Name: MainMenu
   m_TagString: Untagged
@@ -757,6 +758,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ba9cdf1d413d4def89549fe55a11c74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &566924346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566924343}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2ed2a544e604cc6a48f755850c5546, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menu: {fileID: 0}
 --- !u!1 &604404637
 GameObject:
   m_ObjectHideFlags: 0
@@ -858,7 +872,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1022,7 +1036,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17.925, y: -98}
+  m_AnchoredPosition: {x: 17.925, y: -184}
   m_SizeDelta: {x: 170.85, y: 59.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &766544003
@@ -1230,7 +1244,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 7.5, y: 262.3}
+  m_AnchoredPosition: {x: 7.5, y: 115}
   m_SizeDelta: {x: -1660.9, y: -883.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &845824322
@@ -1636,7 +1650,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -257, y: 82}
+  m_AnchoredPosition: {x: -257, y: -56}
   m_SizeDelta: {x: -1687.5, y: -869}
   m_Pivot: {x: 0.49999994, y: 0.5}
 --- !u!114 &1212425991
@@ -2066,7 +2080,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2157,7 +2171,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.4842, y: -80}
+  m_AnchoredPosition: {x: 9.4842, y: -181}
   m_SizeDelta: {x: 268.86, y: 61.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1791210532
@@ -2752,7 +2766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.7, y: 62}
+  m_AnchoredPosition: {x: 11.7, y: -80}
   m_SizeDelta: {x: 183.3, y: 19.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2012464587
@@ -2838,7 +2852,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.5, y: 125.8}
+  m_AnchoredPosition: {x: 9.5, y: 113}
   m_SizeDelta: {x: 268.8, y: 69.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2029459125
