@@ -73,6 +73,7 @@
     <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoBehaviour.cs" />
     <Compile Include="Assets\EnvironmentAssets\Skybox\Utils\Scripts\StyledMono\StyledMonoHideScriptField.cs" />
     <Compile Include="Assets\Scripts\Audience.cs" />
+    <Compile Include="Assets\Scripts\CarSpeed.cs" />
     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
     <Compile Include="Assets\Scripts\LapComplete.cs" />
     <Compile Include="Assets\Scripts\LapTimeManager.cs" />
