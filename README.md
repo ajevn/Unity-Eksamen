@@ -1,6 +1,6 @@
 **UNITY EKSAMEN**
   
-  **Gruppe medlemmer**
+  **Gruppemedlemmer**
   ```
   -Andreas Jevnaker
   -Johan Akerfeldt
